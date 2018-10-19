@@ -15,7 +15,7 @@ description: EL HAMMA Imad's research
 #### <u>Do political institutions improve the effect of remittances on economic growth? Evidence South-Mediterranean countries</u>
 *This paper examines the link between remittances, institutions quality and economic growth for 11 South- Mediterranean countries (SMC) over the period 1984–2014. Based on a Generalized Method of Moment (GMM) estimation, the empirical analysis reveals three findings: institutions quality have a positive effect on economic growth, there is no direct link between remittances and economic growth and remittances and institutional quality are complements in enhancing economic growth.*
 
-[click here for the paper]({{ BASE_PATH}}/pages/working_papers/EB.pdf)
+[click here for the paper]({{ BASE_PATH}}/https://econpapers.repec.org/article/eblecbull/eb-17-00318.htm)
 
 ## <u>Working Paper</u>
 
