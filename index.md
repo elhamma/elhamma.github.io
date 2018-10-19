@@ -23,8 +23,8 @@ Data analysis and econometric modeling specialist. Ability to synthesize and get
         </div>
 
         <div class="span2">
-        <a href="../assets/headshot.jpg">
-            <img src="../assets/headshot.jpg"
+        <a href="../assets/picimad.jpg">
+            <img src="../assets/picimad.jpg"
                   title="EL HAMMA Imad" alt="EL HAMMA"/></a>
         </div>
     </div>
